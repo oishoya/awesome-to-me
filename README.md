@@ -7,6 +7,7 @@ This repository is your curated collection of essential apps and tools designed 
 - [Must Use](#must-use)
 - [App Clients](#app-clients)
 - [Discord](#discord)
+- [Awesome Lists](#awesome-lists)
 
 
 
@@ -23,3 +24,7 @@ This repository is your curated collection of essential apps and tools designed 
 ## Discord
 
 - [Discordid - Show off your Discord profile!](https://github.com/taichikuji/discordid) - A profile maker powered by Discord!
+
+## Awesome Lists
+
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy.
