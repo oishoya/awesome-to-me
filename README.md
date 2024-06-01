@@ -5,7 +5,7 @@ This repository is your curated collection of essential apps and tools designed 
 
 ## Contents
 - [Must Use](#must-use)
-
+- [Discord](#discord)
 
 
 
@@ -13,3 +13,7 @@ This repository is your curated collection of essential apps and tools designed 
 ## Must Use
 
 [Winutil - Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file#readme) - This utility can perform on each Windows system. It is meant to streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates.
+
+## Discord
+
+[Discordid - Show off your Discord profile!](https://github.com/taichikuji/discordid) - A profile maker powered by Discord!
