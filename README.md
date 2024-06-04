@@ -27,4 +27,5 @@ This repository is your curated collection of essential apps and tools designed 
 
 ## Awesome Lists
 
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy.
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your Privacy.
+- [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord Communities for Programmers.
