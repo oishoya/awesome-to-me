@@ -1,11 +1,12 @@
 # Awesome To Me [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/awesome-logo.png" width="350" align="right" alt="Awesome">](https://awesome.re)
-> The awesome curated list of things I love.
+> The Awesome List of Things I Love.
 
-This repository is your curated collection of essential apps and tools designed to enhance your daily life. Contribute your favorites and let's make this collection even more awesome together!
+This repository is a collection of essential apps and tools that enhance my daily life, and maybe they can enhance yours too!
 
 ## Contents
 - [Must Use](#must-use)
 - [App Clients](#app-clients)
+- [Extensions](#extensions)
 - [Discord](#discord)
 - [Youtube Playlists or Videos](#youtube-playlists-or-videos)
 - [Awesome Lists](#awesome-lists)
@@ -19,8 +20,11 @@ This repository is your curated collection of essential apps and tools designed 
 
 
 ## App Clients
-- [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
+- [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows.
 
+
+## Extensions
+- [Extensity](https://sergiokas.github.io/Extensity/) - Quickly enable/disable Google Chrome extensions.
 
 ## Discord
 - [Discordid - Show off your Discord profile!](https://github.com/taichikuji/discordid) - A profile maker powered by Discord!
@@ -32,4 +36,3 @@ This repository is your curated collection of essential apps and tools designed 
 
 ## Awesome Lists
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your Privacy.
-- [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord Communities for Programmers.
