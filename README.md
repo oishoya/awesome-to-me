@@ -5,6 +5,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 
 ## Contents
 - [Must Use](#must-use)
+- [Android Apps](android-apps)
 - [App Clients](#app-clients)
 - [Extensions](#extensions)
 - [Discord](#discord)
@@ -18,6 +19,12 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [Winutil - Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file#readme) - This utility can perform installs, debloat with tweaks, troubleshoot with config, and fix Windows updates.
 - [Mullvad DNS](https://github.com/mullvad/dns-blocklists) - Lists and configuration for Mullvad DNS blocking service.
 
+## Android Apps
+- [Obtainium](https://github.com/ImranR98/Obtainium) - Obtainium enables direct app installation and updates from release pages, with notifications for new releases.
+- [Florisboard](https://github.com/florisboard/florisboard) - A privacy-respecting open-source keyboard designed for Android.
+- [Seal](https://github.com/JunkFood02/Seal) - Android video/audio downloader powered by yt-dlp.
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Breezy Weather is a weather app with a strong focus on Privacy and Design.
+
 
 ## App Clients
 - [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows.
@@ -26,6 +33,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 ## Extensions
 - [Extensity](https://sergiokas.github.io/Extensity/) - Quickly enable/disable Google Chrome extensions.
 - [NoScript](https://noscript.net/) - Block JavaScript and other potentially harmful content.
+
 
 ## Discord
 - [Discordid - Show off your Discord profile!](https://github.com/taichikuji/discordid) - A profile maker powered by Discord!
