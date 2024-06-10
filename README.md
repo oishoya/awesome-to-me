@@ -25,6 +25,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 
 ## Extensions
 - [Extensity](https://sergiokas.github.io/Extensity/) - Quickly enable/disable Google Chrome extensions.
+- [NoScript](https://noscript.net/) - Block JavaScript and other potentially harmful content.
 
 ## Discord
 - [Discordid - Show off your Discord profile!](https://github.com/taichikuji/discordid) - A profile maker powered by Discord!
