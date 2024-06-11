@@ -10,6 +10,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [Extensions](#extensions)
 - [Discord](#discord)
 - [Youtube Playlists or Videos](#youtube-playlists-or-videos)
+- [File Sharing](#file-sharing)
 - [Awesome Lists](#awesome-lists)
 
 
@@ -42,6 +43,11 @@ This repository is a collection of essential apps and tools that enhance my dail
 ## Youtube Playlists or Videos
 - [Reasons to read](https://youtube.com/playlist?list=PLZpKwDwO5HwPrGyF9_Py_-BHcxbp_Co2c&si=gWC5BRy2fF8Zdcqh) - You should maybe read some books, I think!
 - [Windows Fundamentals by NetworkChuck](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
+
+## File Sharing
+- [OnionShare](https://github.com/onionshare/onionshare) - OnionShare enables secure, anonymous file sharing, website hosting, and chatting via Tor network.
+- [localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop.
+
 
 ## Awesome Lists
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your Privacy.
