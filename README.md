@@ -25,6 +25,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [Florisboard](https://github.com/florisboard/florisboard) - A privacy-respecting open-source keyboard designed for Android.
 - [Seal](https://github.com/JunkFood02/Seal) - Android video/audio downloader powered by yt-dlp.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Breezy Weather is a weather app with a strong focus on Privacy and Design.
+- [Cromite (a Bromite fork)](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements.
 
 
 ## App Clients
