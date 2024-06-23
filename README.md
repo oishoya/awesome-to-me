@@ -14,8 +14,9 @@ This repository is a collection of essential apps and tools that enhance my dail
 
 
 ## Educational Goldmine
-- [Reasons to read](https://youtube.com/playlist?list=PLZpKwDwO5HwPrGyF9_Py_-BHcxbp_Co2c&si=gWC5BRy2fF8Zdcqh) - You should maybe read some books, I think!
-- [Windows Fundamentals by NetworkChuck](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
+- [Reasons to read - Youtube Playlist](https://youtube.com/playlist?list=PLZpKwDwO5HwPrGyF9_Py_-BHcxbp_Co2c&si=gWC5BRy2fF8Zdcqh) - You should maybe read some books, I think!
+- [Windows Fundamentals by NetworkChuck - Youtube Playlist](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
+- [How to Become Self Educated - Article](https://www.wikihow.com/Become-Self-Educated) - Looking to become more self-educated? That's amazing!
 
 
 ## Android Apps
