@@ -4,21 +4,19 @@
 This repository is a collection of essential apps and tools that enhance my daily life, and maybe they can enhance yours too!
 
 ## Contents
-- [Must Use](#must-use)
+- [Educational Goldmine](#educational-goldmine)
 - [Android Apps](android-apps)
-- [App Clients](#app-clients)
+- [Windows Apps](#windows-apps)
 - [Extensions](#extensions)
-- [Discord](#discord)
-- [Youtube Playlists or Videos](#youtube-playlists-or-videos)
+- [Miscellaneous](#miscellaneous)
 - [File Sharing](#file-sharing)
 - [Awesome Lists](#awesome-lists)
 
 
+## Educational Goldmine
+- [Reasons to read](https://youtube.com/playlist?list=PLZpKwDwO5HwPrGyF9_Py_-BHcxbp_Co2c&si=gWC5BRy2fF8Zdcqh) - You should maybe read some books, I think!
+- [Windows Fundamentals by NetworkChuck](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
 
-
-## Must Use
-- [Winutil - Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file#readme) - This utility can perform installs, debloat with tweaks, troubleshoot with config, and fix Windows updates.
-- [Mullvad DNS](https://github.com/mullvad/dns-blocklists) - Lists and configuration for Mullvad DNS blocking service.
 
 ## Android Apps
 - [Obtainium](https://github.com/ImranR98/Obtainium) - Obtainium enables direct app installation and updates from release pages, with notifications for new releases.
@@ -28,7 +26,8 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [Cromite (a Bromite fork)](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements.
 
 
-## App Clients
+## Windows Apps
+- [Winutil - Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil?tab=readme-ov-file#readme) - This utility can perform installs, debloat with tweaks, troubleshoot with config, and fix Windows updates.
 - [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows.
 
 
@@ -37,13 +36,10 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [NoScript](https://noscript.net/) - Block JavaScript and other potentially harmful content.
 
 
-## Discord
+## Miscellaneous
+- [Mullvad DNS](https://github.com/mullvad/dns-blocklists) - Lists and configuration for Mullvad DNS blocking service.
 - [Discordid - Show off your Discord profile!](https://github.com/taichikuji/discordid) - A profile maker powered by Discord!
 
-
-## Youtube Playlists or Videos
-- [Reasons to read](https://youtube.com/playlist?list=PLZpKwDwO5HwPrGyF9_Py_-BHcxbp_Co2c&si=gWC5BRy2fF8Zdcqh) - You should maybe read some books, I think!
-- [Windows Fundamentals by NetworkChuck](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
 
 ## File Sharing
 - [OnionShare](https://github.com/onionshare/onionshare) - OnionShare enables secure, anonymous file sharing, website hosting, and chatting via Tor network.
