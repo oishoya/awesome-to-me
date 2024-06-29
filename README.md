@@ -18,6 +18,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [Windows Fundamentals by NetworkChuck - Youtube Playlist](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
 - [How to Become Self Educated - Article](https://www.wikihow.com/Become-Self-Educated) - Looking to become more self-educated? That's amazing!
 - [Apple Is Not Your Friend - Youtube Playlist](https://youtube.com/playlist?list=PLR_ghQEN2SgAr8yFEinfcSuEKFYKKZB8N&si=myxNZ5OJPhCNPN27) -  Apple is not safe for privacy and neither is Google.
+- [Huge If True - Youtube Playlist](https://youtube.com/playlist?list=PLF-HhhjMki5n3PF6xpvR7-wH_-P-FpLqk&si=0YM6VslJHtQ5qxTM) - Optimistic technology explainers. Huge if true.
 
 
 ## Android Apps
