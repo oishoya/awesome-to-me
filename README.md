@@ -15,7 +15,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 
 ## Educational Goldmine
 - [Reasons to read - Youtube Playlist](https://youtube.com/playlist?list=PLZpKwDwO5HwPrGyF9_Py_-BHcxbp_Co2c&si=gWC5BRy2fF8Zdcqh) - You should maybe read some books, I think!
-- [Windows Fundamentals by NetworkChuck - Youtube Playlist](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
+- [Windows Fundamentals - Youtube Playlist](https://youtube.com/playlist?list=PLsep1uQfemNFvT57-DOjzSnGspJv8efpS&si=27mBmj4uuI1DVPB7) - Windows Fundamentals course led by NetworkChuck.
 - [How to Become Self Educated - Article](https://www.wikihow.com/Become-Self-Educated) - Looking to become more self-educated? That's amazing!
 - [Apple Is Not Your Friend - Youtube Playlist](https://youtube.com/playlist?list=PLR_ghQEN2SgAr8yFEinfcSuEKFYKKZB8N&si=myxNZ5OJPhCNPN27) -  Apple is not safe for privacy and neither is Google.
 - [Huge If True - Youtube Playlist](https://youtube.com/playlist?list=PLF-HhhjMki5n3PF6xpvR7-wH_-P-FpLqk&si=0YM6VslJHtQ5qxTM) - Optimistic technology explainers. Huge if true.
@@ -27,6 +27,7 @@ This repository is a collection of essential apps and tools that enhance my dail
 - [Seal](https://github.com/JunkFood02/Seal) - Android video/audio downloader powered by yt-dlp.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Breezy Weather is a weather app with a strong focus on Privacy and Design.
 - [Cromite (a Bromite fork)](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements.
+- [Plain App](https://github.com/ismartcoding/plain-app) - Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 
 
 ## Windows Apps
